@@ -106,6 +106,6 @@ model = load_model("satellite_unet.h5")
 
 ## 🔗 Credits
 - **Developer**: C. Vishal Goud  
-- **Project Type**: Minor Project - Artificial Intelligence (Nov Batch)  
-- **Dataset**: Custom Satellite Imagery (Kaggle/local)  
+- **Project Type**: Minor Project - Artificial Intelligence (Mar Batch-2024)  
+- **Dataset**: Dubai Segmentation Dataset Kaggle - https://www.kaggle.com/datasets/humansintheloop/semantic-segmentation-of-aerial-imagery 
 - **Model Reference**: UNet - Convolutional Networks for Biomedical Image Segmentation  
