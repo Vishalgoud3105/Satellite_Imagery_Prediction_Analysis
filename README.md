@@ -16,7 +16,7 @@
 ---
 
 ## 📦 Dataset Details
-- **Source**: Custom Satellite Dataset (from Kaggle / local repo)
+- **Source**: Dubai Segmentation Dataset Kaggle - https://www.kaggle.com/datasets/humansintheloop/semantic-segmentation-of-aerial-imagery
 - **Data Format**: RGB images (.jpg/.png) + masks (.png)
 - **Image Dimensions**: 128x128 (resized)
 - **Classes**: Multiple segmented regions (e.g., urban, vegetation, water)
